@@ -7,3 +7,5 @@ python-dotenv
 langchain-core
 pandas
 streamlit
+chains
+utils
