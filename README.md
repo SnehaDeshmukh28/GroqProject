@@ -1,4 +1,4 @@
-# GroqProject
+# Project using Groq
 
 ## Overview
 
